@@ -1,4 +1,4 @@
-# EcoMore
+# GreenBin
 
 This is a project for the Big Red Hacks 2022 Hackathon at Cornell Univeristy.
 
@@ -6,7 +6,7 @@ Team members: Mena Attia, Nada Attia, Youssef Attia, Mohammad Labadi
 
 ## Summary
 
-EcoMore is an app that promotes sustainability by turning it into a mass movement, exploiting the concept of the network effect, where more people are encouraged to be sustainable through the app in order not to be "left out", which is how social media platforms function.
+GreenBin is an app that promotes sustainability by turning it into a mass movement, exploiting the concept of the network effect, where more people are encouraged to be sustainable through the app in order not to be "left out", which is how social media platforms function.
 
 The incentive this app uses to get users to sign up is cash rewards for reaching certain milestones in the app.
 
